@@ -23,6 +23,7 @@
 AR creation tool for Coke Dreamworld campaign | Made with 8th Wall and Niantic VPS, a-frame, html, css and javascript.
   </p>
    <img src="https://user-images.githubusercontent.com/40408965/200143996-2973b16c-58c4-447e-88be-a825d4ae40cf.gif" alt="animated" />
+   <video src="https://user-images.githubusercontent.com/40408965/208983579-94d4827d-aa39-4d74-914c-e9862146cb3c.mp4"> </video>
 </div>
 
 
