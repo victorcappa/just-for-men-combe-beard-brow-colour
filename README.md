@@ -20,7 +20,7 @@
 <h3 align="center">Combe Beard Brow Colour</h3>
 
   <p align="center">
-AR creation tool for Coke Dreamworld campaign | Made with 8th Wall and Niantic VPS, a-frame, html, css and javascript.
+AR face filter experience created for Just For Men marketing campaign | using 8th Wall + AFRAME and React
   </p>
   
    <video src="https://user-images.githubusercontent.com/40408965/208983801-992af262-9b47-4bf3-9b53-534ec86cd769.mp4"> </video>
