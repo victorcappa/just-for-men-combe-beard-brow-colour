@@ -23,9 +23,11 @@
 AR face filter experience created for Just For Men marketing campaign | using 8th Wall + AFRAME and React
   </p>
   
-   <video src="https://user-images.githubusercontent.com/40408965/208983801-992af262-9b47-4bf3-9b53-534ec86cd769.mp4"> </video>
-   
- <a href="https://github.com/victorcappa/just-for-men-combe-beard-brow-colour/blob/main/just-for-men.gif">DEMO GIF FOR MOBILE</a>
+
+
+https://github.com/victorcappa/just-for-men-combe-beard-brow-colour/assets/40408965/e893452c-cb71-4609-8f87-ffa9683a5ea8
+
+
 
 </div>
 
