@@ -6,6 +6,8 @@
 
 <h2>Client</h2>
 <p><b>Just For Men</b></p>
+<h2>Contractor</h2>
+<p><b>Sharpend</b></p>
 
 
 <!-- PROJECT LOGO -->
